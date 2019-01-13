@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//test1
 struct products{
 		int code;
 		string des;
@@ -18,7 +19,7 @@ void add(products t1[],int nbr){
 }else {
 	cout<<"sorry, no place for that, you just pass over 100 products.";
 }
-
+//test2
 }
 void post(products t2[],int nbr){
 	int i;
